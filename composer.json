@@ -1,5 +1,5 @@
 {
-    "name": "elevate-digital/nova-charcounted-fields",
+    "name": "undeclared/nova-charcounted-fields",
     "description": "Text and textarea fields with a character counter.",
     "keywords": [
         "laravel",
