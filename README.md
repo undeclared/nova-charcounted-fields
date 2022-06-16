@@ -1,5 +1,9 @@
 # Nova Charcounter Fields
 
+## Not my work
+
+Just a working package for myself
+
 Text and textarea fields with a character counter for Laravel Nova.
 
 ### Installation
