@@ -10,7 +10,7 @@ Add the GitHub URL to your repositories list in `composer.json`:
 "repositories": [
   {
     "type": "vcs",
-    "url": "git@github.com:optimistdigital/nova-charcounted-fields.git"
+    "url": "git@github.com:undeclared/nova-charcounted-fields.git"
   }
 ]
 ```
