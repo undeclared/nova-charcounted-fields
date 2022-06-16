@@ -19,10 +19,6 @@ Add the GitHub URL to your repositories list in `composer.json`:
 ]
 ```
 
-You can require this package using composer:
-
-`composer require elevate-digital/nova-charcounted-fields`
-
 # Usage
 
 You can add the field with a resolver as follows:
